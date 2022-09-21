@@ -1,0 +1,131 @@
+.face {
+    position: absolute;
+    max-width: 270px;
+    margin: center;
+    top: 80px;
+    right: 0px;
+    left: 250px;
+    bottom: 85px;
+    background: #3b5998;
+    box-shadow: 0px 0px 15px #3b5998;
+    box-sizing: border-box;
+    border-radius: 20px;
+}
+
+.book {
+    font-family: impact;
+    position: absolute;
+    top: 90px;
+    right: 868px;
+    text-align: center;
+    font-size: 58px;
+    color: rgb(0, 0, 0);
+}
+
+.faceborda {
+    border-radius: 10px;
+    background:rgb(255, 255, 255);
+    position: absolute;
+    right: 858px;
+    top: 92px;
+    padding: 10px;
+    width: 227px;
+    height: 50px;
+    box-shadow: inset 2px 2px 3px rgba(255, 255, 255, .6),
+                inset -2px 2px 3px rgba(0, 0, 0, .6);
+}
+
+.whats {
+ position: absolute;
+ max-width: 270px;
+ margin: auto;
+ top: 80px;
+ right: 0px;
+ left: 0px;
+ bottom: 85px;
+ background:  #34af23;
+ box-shadow: 0px 0px 15px #34af23;
+ box-sizing: border-box;
+ border-radius: 20px;
+}
+
+.app {
+    font-family: impact;
+    position: absolute;
+    top: 90px;
+    right: 564px;
+    text-align: center;
+    font-size: 58px;
+    color: black;
+}
+
+.whatsborda {
+    border-radius: 10px;
+    background: rgb(255, 255, 255);
+    position: absolute;
+    right: 561px;
+    top: 92px;
+    padding: 10px;
+    width: 227px;
+    height: 50px;
+    box-shadow: inset 2px 2px 3px rgba(255, 255, 255, .6),
+                inset -2px 2px 3px rgba(0, 0, 0, .6);
+}
+
+.insta{
+    position: absolute;
+    max-width: 270px;
+    margin: auto;
+    top: 80px;
+    right: 0px;
+    left: 600px;
+    bottom: 85px;
+    background: #3f729b;
+    box-shadow: 0px 0px 15px #3f729b;
+    box-sizing: border-box;
+    border-radius: 20px;
+}
+
+.gram{
+    font-family: impact;
+    position: absolute;
+    top: 90px;
+    right: 260px;
+    text-align: center;
+    font-size: 58px;
+    color: rgb(0, 0, 0);
+}
+
+.instaborda {
+    border-radius: 10px;
+    background:rgb(255, 255, 255);
+    position: absolute;
+    right: 258px;
+    top: 92px;
+    padding: 10px;
+    width: 227px;
+    height: 50px;
+    box-shadow: inset 2px 2px 3px rgba(255, 255, 255, .6),
+                inset -2px 2px 3px rgba(0, 0, 0, .6);
+}
+
+.facesite {
+    position: absolute;
+    top: 240px;
+    right: 872px;
+}
+
+.instasite {
+    position: absolute;
+    top: 240px;
+    right: 272px;
+}
+
+.whatsite {
+    position: absolute;
+    top: 240px;
+    right: 573px;
+}
+body {
+    background-color: whitesmoke;
+}
